@@ -147,5 +147,4 @@ public class ButterProducerFilter implements Filter {
 }
 ```
 
-![Russian flag](https://user-images.githubusercontent.com/49895274/190373653-2cf2f866-f282-4932-8003-759c747a60c0.png)
 
